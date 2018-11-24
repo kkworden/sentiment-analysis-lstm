@@ -1,1 +1,8 @@
-I have used LSTM for sentiment analysis on the reviews of Yelp dataset.
+Forked in order to get working on macOS Mojave.
+
+To get working:
+
+```
+conda create -n
+conda install sklearn
+```
